@@ -1,4 +1,4 @@
-# lfsmathchwithoutgitattributes
+# lfsmatchwithoutgitattributes
 
 about
 .gitattributes file for FULL-LFS repository like art, 3D, large binary files
