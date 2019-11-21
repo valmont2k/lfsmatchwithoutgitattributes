@@ -81,3 +81,15 @@
 *.[gG][iI][xX]* filter=lfs diff=lfs merge=lfs -crlf 
 *.[gG][iI][yY]* filter=lfs diff=lfs merge=lfs -crlf 
 *.[gG][iI][zZ]* filter=lfs diff=lfs merge=lfs -crlf
+
+#numbers match like *.3gp
+*.1* filter=lfs diff=lfs merge=lfs -crlf 
+*.2* filter=lfs diff=lfs merge=lfs -crlf 
+*.3* filter=lfs diff=lfs merge=lfs -crlf 
+*.4* filter=lfs diff=lfs merge=lfs -crlf 
+*.5* filter=lfs diff=lfs merge=lfs -crlf 
+*.6* filter=lfs diff=lfs merge=lfs -crlf 
+*.7* filter=lfs diff=lfs merge=lfs -crlf 
+*.8* filter=lfs diff=lfs merge=lfs -crlf 
+*.9* filter=lfs diff=lfs merge=lfs -crlf
+*.0* filter=lfs diff=lfs merge=lfs -crlf
